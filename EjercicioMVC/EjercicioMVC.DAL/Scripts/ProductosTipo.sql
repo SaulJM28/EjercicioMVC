@@ -1,0 +1,21 @@
+USE [EjercicioMVC]
+GO
+
+/****** Object:  Table [dbo].[ProductosTipo]    Script Date: 04/10/2021 17:25:31 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[ProductosTipo](
+	[ProductosTipoId] [int] IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+	[ProductosTipoNombre] [varchar](100) NULL,
+ CONSTRAINT [PK_ProductosTipo] PRIMARY KEY CLUSTERED 
+(
+	[ProductosTipoId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+

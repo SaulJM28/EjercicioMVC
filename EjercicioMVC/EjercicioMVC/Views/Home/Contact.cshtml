@@ -1,0 +1,28 @@
+﻿@model List<EjercicioMVC.DAL.ProductosDto>
+@{
+    ViewBag.Title = "Libros";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<table class="table table-responsive table-bordered table-striped table-hover">
+    <thead class="thead-dark">
+        <tr class="text-uppercase" style="background-color: rgb(96,126,19); color: white;">
+            <th scope="col" class="text-center">Titulo</th>
+            <th scope="col" class="text-center">Autor</th>
+            <th scope="col" class="text-center">Año de publicación</th>
+            <th scope="col" class="text-center">Editorial</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var libro in Model)
+        {
+            <tr class="table-primary table-active">
+                <td scope="row" class="text-center">@libro.titulo</td>
+                <td scope="row" class="text-center">@libro.autor</td>
+                <td scope="row" class="text-center">@libro.año_pub</td>
+                <td scope="row" class="text-center">@libro.editorial</td>
+            </tr>
+        }
+    </tbody>
+</table>

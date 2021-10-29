@@ -1,0 +1,18 @@
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercicioMVC.DAL\bin\Debug\EjercicioMVC.DAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercicioMVC.DAL\bin\Debug\EjercicioMVC.DAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercicioMVC.DAL\bin\Debug\EjercicioMVC.DAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercicioMVC.DAL\bin\Debug\EjercicioMVC.DAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.pdb
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercicioMVC.DAL\bin\Debug\EjercicioMVC.DAL.dll
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercicioMVC.DAL\bin\Debug\EjercicioMVC.DAL.pdb
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.csproj.AssemblyReference.cache
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.dll
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercicioMVC.DAL\obj\Debug\EjercicioMVC.DAL.pdb

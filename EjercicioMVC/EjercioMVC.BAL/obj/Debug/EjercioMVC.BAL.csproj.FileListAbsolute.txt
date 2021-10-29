@@ -1,0 +1,27 @@
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercioMVC.BAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercioMVC.BAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercicioMVC.DAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercicioMVC.DAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.csproj.CopyComplete
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercioMVC.BAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercioMVC.BAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercicioMVC.DAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercicioMVC.DAL.pdb
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.csproj.CopyComplete
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.dll
+C:\Users\cesar\Documents\UTEQ\Desarrollo Web\Ejercicios VS\Unidad I\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.pdb
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercioMVC.BAL.dll
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercioMVC.BAL.pdb
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercicioMVC.DAL.dll
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercioMVC.BAL\bin\Debug\EjercicioMVC.DAL.pdb
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.csproj.AssemblyReference.cache
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.csproj.CopyComplete
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.dll
+C:\Users\Sauri\Desktop\EjercicioMVC\EjercicioMVC\EjercioMVC.BAL\obj\Debug\EjercioMVC.BAL.pdb
